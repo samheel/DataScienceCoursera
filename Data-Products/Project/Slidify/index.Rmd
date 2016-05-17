@@ -1,7 +1,7 @@
 ---
 title       : Property Investor Calculator
-subtitle    : www.rwstang.com
-author      : Raymond Wai Shing Tang
+subtitle    : 
+author      : Mohammad Samheel
 job         : Property Hunter
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -44,6 +44,3 @@ So as a property investor inspecting a property on a Saturday morning, it's quit
 
 I hope this helps you with your property investing decisions.
 
-Please direct feedback to raymondwstang@gmail.com and visit www.rwstang.com
-
-Thanks you for your time and feedback.
